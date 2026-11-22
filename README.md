@@ -48,6 +48,4 @@ When implementing the flickering candles, you may wish to use the PerlinNoise me
 ## Optional Extensions
 If you complete all of the above tasks before the end of the practical, or would like to continue to develop your skills in your free study time, then you should consider attempting the following tasks:
 
-- Explore the use of particle systems to create candle flames and a fire under the cauldron (see http://glennmurphy.weebly.com/fire-particle-tutorial.html).
-- Investigate how to use normal maps to add additional detail to the surfaces of the house and the props inside it (see http://docs.unity3d.com/500/Documentation/Manual/HOWTO-bumpmap.html).
-- If you happen to have a very fancy graphics card you could try out Unity’s new HDRP to get real time ray tracing. WARNING: do not use this in your projects, as it will likely mean that the marker cannot mark your work: https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@7.1/manual/Ray-Tracing-Getting-Started.html 
+- If you happen to have a very fancy graphics card you could try out [Unity’s HDRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@17.7/manual/index.html) to get real time ray tracing. WARNING: this will not work on the lab machines! 
